@@ -21,14 +21,6 @@ export const FavoritesMovies: React.FC = () => {
             genre: "мультфильм",
             average: 10,
         },
-        {
-            id: 3,
-            name: "Побег",
-            country: "США",
-            date: 1908,
-            genre: "драма",
-            average: 9.0,
-        },
     ]);
     return (
         <Container>

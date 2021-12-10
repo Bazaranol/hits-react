@@ -36,7 +36,7 @@ export const MovieCard: React.FC<IMovieCard> = ({
                         {country} &middot; {genre}
                     </div>
                 </Col>
-                <Col className="ms-auto justify-content-end">
+                <Col className="ms-auto flex-row-reverse justify-content-end">
                     <RatingMovie average={average} />
                 </Col>
             </Row>
