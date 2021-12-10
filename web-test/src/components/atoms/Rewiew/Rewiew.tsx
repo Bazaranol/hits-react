@@ -4,7 +4,7 @@ import { Badge, Card, Col, Row } from "react-bootstrap";
 interface IRewiew {
     nickname: string;
     text: string;
-    date: string;
+    date: number;
     average: number;
 }
 
