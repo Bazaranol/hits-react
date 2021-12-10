@@ -1,0 +1,12 @@
+{
+  "tabWidth": 4,
+  "semi": false,
+  "overrides": [
+    {
+      "files": "src/components/**/*.tsx",
+      "options": {
+        "semi": true
+      }
+    }
+  ]
+}
